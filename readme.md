@@ -1,5 +1,5 @@
 # AutoRoll - control your roller blinds by WiFi
-## Video: https://youtu.be/U_YfX8vU8Tc
+## Video: https://youtu.be/6gWXwOuqHj8
 
 # Tutorial
 You need: ESP8266 (wemos d1 mini), ULN2003, 28BYJ-48 5VDC stepper, some glue, screw and nut
